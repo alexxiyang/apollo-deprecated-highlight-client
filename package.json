@@ -1,0 +1,28 @@
+{
+  "name": "apollo-deprecated-highlight-client",
+  "version": "1.0.1",
+  "description": "This is the client of apollo-deprecated-highlight",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "prepublish": "jest && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxiyang/apollo-deprecated-highlight-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexxiyang/apollo-deprecated-highlight-client/issues"
+  },
+  "homepage": "https://github.com/alexxiyang/apollo-deprecated-highlight-client#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.4"
+  }
+}
