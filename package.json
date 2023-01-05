@@ -1,6 +1,6 @@
 {
   "name": "apollo-deprecated-highlight-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is the client of apollo-deprecated-highlight",
   "main": "index.js",
   "scripts": {
