@@ -1,6 +1,6 @@
 {
   "name": "apollo-deprecated-highlight-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is the client of apollo-deprecated-highlight",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/alexxiyang/apollo-deprecated-highlight-client.git"
   },
-  "keywords": ["apollo"],
+  "keywords": [
+    "apollo"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
