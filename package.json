@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --coverage",
     "build": "tsc",
-    "prepublish": "test && tsc"
+    "prepublish": "jest --coverage && tsc"
   },
   "repository": {
     "type": "git",
