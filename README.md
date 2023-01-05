@@ -21,4 +21,7 @@ The console will print out the warning message if there are deprecations in the 
 
 ## Example
 
-TODO
+Here is the [example project](https://github.com/alexxiyang/apollo-deprecated-highlight-client-demo)
+
+Here are the console outputs
+![example](https://github.com/alexxiyang/apollo-deprecated-highlight-client/raw/main/client-example.png)
